@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning all I can about agentic systems
 - 💞️ I’m looking to collaborate on projects related to AI agent frameworks
 - 📫 How to reach me marc@2acrestudios.com
-- 😄 Pronouns: Him
 - ⚡ Fun fact: I love K Dramas
 - ☕️ <a href="https://buymeacoffee.com/marcshade">https://buymeacoffee.com/marcshade</a>
 
