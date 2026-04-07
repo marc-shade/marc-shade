@@ -1,16 +1,14 @@
 # Marc Shade
 
-**CTO at [KineticArc](https://kineticarc.ai)** | Machine Reasoning for Adaptive Robotics | Top ARC-AGI-3 Competitor
+**Co-Founder & CTO at [KineticArc.ai](https://kineticarc.ai)** | AGI Researcher | ARC-AGI-3 Competitor | 30 Years Production Engineering
 
-30 years shipping production systems. Currently building AI-native robotic re-tasking for the $34B adaptive manufacturing market.
+Building adaptive manufacturing intelligence — AI that learns to control physical systems in real-time. Previously shipped enterprise production systems across Fortune 500 (Kellogg's, Hertz, Stryker, Eaton).
 
-## What I Build
+## Current Focus
 
-**AI/ML Systems** — RAG pipelines, multi-agent orchestration, LLM integrations with production guardrails, compliance-aware AI for regulated environments (FERPA, HIPAA)
-
-**MCP Servers** — Model Context Protocol infrastructure for composable AI agent systems. 15+ open-source MCP servers across fraud detection, memory management, security, and intelligence domains.
-
-**Production Infrastructure** — Enterprise platforms handling millions of records, 100+ institutional clients, 24/7 operation with Prometheus/Grafana monitoring
+- **KineticArc.ai** — Adaptive manufacturing intelligence for real-time robotic control. Co-founded with Scott Laughlin (27 patents). Targeting the $34B adaptive manufacturing market.
+- **ARC-AGI-3** — Competing in the premier artificial general intelligence benchmark. Building novel architectures: object-centric learning, state-graph search, test-time training.
+- **Open Source** — 40+ public repositories. 15+ MCP servers. Active Kaggle competitor (top 25%).
 
 ## Featured Projects
 
@@ -21,27 +19,43 @@
 | [Enhanced Memory MCP](https://github.com/marc-shade/enhanced-memory-mcp) | 200+ tool memory system with 4-tier RAG, embeddings, and vector search |
 | [tmux (Agentic Fork)](https://github.com/marc-shade/tmux) | tmux with native MCP integration, 15 agentic commands, agent dashboard |
 | [LLM Council](https://github.com/marc-shade/llm-council) | Multi-model deliberation with MCP server, 10 reasoning patterns |
-| [AI Persona Lab](https://github.com/marc-shade/ai-persona-lab) | Multi-agent collaboration platform with dynamic persona generation |
+| [Agentic System OSS](https://github.com/marc-shade/agentic-system-oss) | Open source 24/7 autonomous agentic AI system |
+
+## AI Systems & Multi-Agent Architecture
+
+**Production AI** — RAG pipelines, multi-agent orchestration, LLM integrations with production guardrails, compliance-aware AI for regulated environments (FERPA, HIPAA)
+
+**MCP Infrastructure** — Model Context Protocol servers for composable AI agent systems across fraud detection, memory management, security, and intelligence domains
+
+**Enterprise Systems** — Platforms handling millions of records, 100+ institutional clients, 24/7 operation with Prometheus/Grafana monitoring
 
 ## Healthcare, Compliance & Security
 
-AI in regulated environments requires compliance by design, not as an afterthought. These projects demonstrate patterns for healthcare, financial, and federal compliance:
+AI in regulated environments requires compliance by design. These projects demonstrate patterns for healthcare, financial, and federal compliance:
 
-| Project | Compliance Domain |
-|---------|------------------|
+| Project | Domain |
+|---------|--------|
 | [DocsIngest](https://github.com/marc-shade/docsingest) | HIPAA PHI/PII detection, CUI marking, ITAR/EAR screening, FedRAMP audit trails |
 | [Fraud Detection MCP](https://github.com/marc-shade/fraud-detection-mcp) | Financial fraud with explainable AI — auditable decisions for regulatory review |
 | [HIDS MCP](https://github.com/marc-shade/hids-mcp) | Host intrusion detection — log analysis, process monitoring, file integrity |
 | [Security Auditor MCP](https://github.com/marc-shade/security-auditor-mcp) | AI-powered vulnerability scanning and remediation |
-| [Web Vuln Scanner MCP](https://github.com/marc-shade/web-vuln-scanner-mcp) | OWASP Top 10 detection and reporting |
-| [DoS Detector MCP](https://github.com/marc-shade/dos-detector-mcp) | Traffic anomaly detection and attack pattern analysis |
 | [Digital Footprint](https://github.com/marc-shade/digital-footprint) | PII exposure detection and privacy protection |
-| [AVIR Protocol](https://github.com/marc-shade/avir-protocol) | Cross-provider AI verification for trustworthy benchmarks |
 
-## Tech Stack
+## Technical Skills
 
-Python, TypeScript, React, FastAPI, Node.js, PostgreSQL, Elasticsearch, Qdrant, Redis, DuckDB, Docker, PyTorch, TensorFlow
+**Languages**: Python, TypeScript, JavaScript, SQL, Bash
+**AI/ML**: PyTorch, TensorFlow, Deep Learning, Reinforcement Learning, Computer Vision, NLP, LLMs
+**Infrastructure**: Docker, Kubernetes, AWS, GCP, Linux, CI/CD, Terraform
+**Data**: PostgreSQL, Elasticsearch, Qdrant, Redis, DuckDB, SQLite
+**Frameworks**: FastAPI, React, Node.js, Streamlit
+**Specializations**: Distributed Systems, Multi-Agent Systems, MCP (Model Context Protocol), MLOps, Robotics Control Systems
+
+## Experience
+
+- **Co-Founder & CTO** — KineticArc.ai (2025–present)
+- **AGI Researcher** — ARC-AGI-3 Competition (2025–present)
+- **Senior Production Engineer** — Fortune 500: Kellogg's, Hertz, Stryker, Eaton (30 years)
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/marcshade) · [KineticArc](https://kineticarc.ai) · marc.alan.shade@gmail.com · Pittsburgh, PA
+[LinkedIn](https://linkedin.com/in/marcshade) · [KineticArc](https://kineticarc.ai) · [Kaggle](https://kaggle.com/marcshade) · Pittsburgh, PA
