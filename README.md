@@ -1,14 +1,15 @@
 # Marc Shade
 
-**Co-Founder & CTO at [KineticArc.ai](https://kineticarc.ai)** | AGI Researcher | ARC-AGI-3 Competitor | 30 Years Production Engineering
+**Senior AI Engineer at [CFGI](https://www.cfgi.com)** | Senior Advisor at [KineticArc.ai](https://kineticarc.ai) | ARC-AGI-3 Competitor | 30 Years Production Engineering
 
-Building adaptive manufacturing intelligence — AI that learns to control physical systems in real-time. Previously shipped enterprise production systems across Fortune 500 (Kellogg's, Hertz, Stryker, Eaton).
+Production AI for regulated environments: multi-agent orchestration, MCP infrastructure, and compliance-aware systems. Previously shipped enterprise production systems across Fortune 500 (Kellogg's, Hertz, Stryker, Eaton).
 
 ## Current Focus
 
-- **KineticArc.ai** — Adaptive manufacturing intelligence for real-time robotic control. Co-founded with Scott Laughlin (27 patents). Targeting the $34B adaptive manufacturing market.
-- **ARC-AGI-3** — Competing in the premier artificial general intelligence benchmark. Building novel architectures: object-centric learning, state-graph search, test-time training.
-- **Open Source** — 40+ public repositories. 15+ MCP servers. Active Kaggle competitor (top 25%).
+- **CFGI**: Senior AI Engineer. Internal AI platform and agentic tooling.
+- **ARC-AGI-3**: competing in the premier artificial general intelligence benchmark. Object-centric learning, state-graph search, test-time training.
+- **KineticArc.ai**: Senior Advisor. Adaptive manufacturing intelligence for real-time robotic control, co-founded with Scott Laughlin (27 patents).
+- **Open Source**: 45+ original repositories, 25 of them MCP servers. Active Kaggle competitor.
 
 ## Featured Projects
 
@@ -23,11 +24,11 @@ Building adaptive manufacturing intelligence — AI that learns to control physi
 
 ## AI Systems & Multi-Agent Architecture
 
-**Production AI** — RAG pipelines, multi-agent orchestration, LLM integrations with production guardrails, compliance-aware AI for regulated environments (FERPA, HIPAA)
+**Production AI**: RAG pipelines, multi-agent orchestration, LLM integrations with production guardrails, compliance-aware AI for regulated environments (FERPA, HIPAA)
 
-**MCP Infrastructure** — Model Context Protocol servers for composable AI agent systems across fraud detection, memory management, security, and intelligence domains
+**MCP Infrastructure**: Model Context Protocol servers for composable AI agent systems across fraud detection, memory management, security, and intelligence domains
 
-**Enterprise Systems** — Platforms handling millions of records, 100+ institutional clients, 24/7 operation with Prometheus/Grafana monitoring
+**Enterprise Systems**: platforms handling millions of records, 100+ institutional clients, 24/7 operation with Prometheus/Grafana monitoring
 
 ## Healthcare, Compliance & Security
 
@@ -36,8 +37,8 @@ AI in regulated environments requires compliance by design. These projects demon
 | Project | Domain |
 |---------|--------|
 | [DocsIngest](https://github.com/marc-shade/docsingest) | HIPAA PHI/PII detection, CUI marking, ITAR/EAR screening, FedRAMP audit trails |
-| [Fraud Detection MCP](https://github.com/marc-shade/fraud-detection-mcp) | Financial fraud with explainable AI — auditable decisions for regulatory review |
-| [HIDS MCP](https://github.com/marc-shade/hids-mcp) | Host intrusion detection — log analysis, process monitoring, file integrity |
+| [Fraud Detection MCP](https://github.com/marc-shade/fraud-detection-mcp) | Financial fraud with explainable AI, auditable decisions for regulatory review |
+| [HIDS MCP](https://github.com/marc-shade/hids-mcp) | Host intrusion detection: log analysis, process monitoring, file integrity |
 | [Security Auditor MCP](https://github.com/marc-shade/security-auditor-mcp) | AI-powered vulnerability scanning and remediation |
 | [Digital Footprint](https://github.com/marc-shade/digital-footprint) | PII exposure detection and privacy protection |
 
@@ -52,9 +53,10 @@ AI in regulated environments requires compliance by design. These projects demon
 
 ## Experience
 
-- **Co-Founder & CTO** — KineticArc.ai (2025–present)
-- **AGI Researcher** — ARC-AGI-3 Competition (2025–present)
-- **Senior Production Engineer** — Fortune 500: Kellogg's, Hertz, Stryker, Eaton (30 years)
+- **Senior AI Engineer**, CFGI
+- **Senior Advisor**, KineticArc.ai (co-founder; previously CTO)
+- **AGI Researcher**, ARC-AGI-3 Competition (2025 to present)
+- **Senior Production Engineer**, Fortune 500: Kellogg's, Hertz, Stryker, Eaton (30 years)
 
 ## Connect
 
